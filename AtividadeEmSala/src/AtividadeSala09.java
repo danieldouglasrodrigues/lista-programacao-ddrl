@@ -28,7 +28,7 @@ public class AtividadeSala09 {
                     break;
 
             }
-        }while (sair)
+        }while (sair);
 
 
     }
