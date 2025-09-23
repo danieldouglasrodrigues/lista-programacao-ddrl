@@ -1,3 +1,5 @@
+package atividade01;
+
 public class Lampada {
     private boolean ligada;
     private int brilho;

@@ -1,3 +1,5 @@
+package atividade02;
+
 public class ContaBancaria {
     private String titular;
     private String numero;

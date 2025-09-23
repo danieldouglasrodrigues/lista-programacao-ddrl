@@ -1,3 +1,5 @@
+package atividade03;
+
 public class Carro extends Veiculo {
 
     private int portas;

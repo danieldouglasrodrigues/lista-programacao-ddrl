@@ -1,3 +1,5 @@
+package atividade01;
+
 public class Main {
     public static void main(String[] args) {
         // Demonstração da Lâmpada 1 (usando construtor padrão)

@@ -1,3 +1,5 @@
+package atividade04;
+
 public class Vendedor extends Funcionario {
     private double comissao;
     public Vendedor(String nome, double salarioBase, double comissao) {
